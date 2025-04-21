@@ -5,7 +5,7 @@
 
 # Monitoring Stack with Prometheus and Grafana
 
-Created by Raghav Agarwal | SAP- 500108301
+Created by Harsh Jindal | SAP- 500107226
 
 This project sets up a complete monitoring stack using Prometheus and Grafana with Node Exporter for system metrics collection.
 
@@ -48,13 +48,13 @@ docker-compose up -d
 
 ## Verify Node Exporter and Grafana UP in Prometheus
 
-![Image](/assets\Screenshot 2025-04-21 212503.png)
+![Image](/assets/Screenshot%202025-04-19%20012733.png)
 
 ## Setting Up Grafana Dashboard
 
 1. Log in to Grafana (http://localhost:3000)
 
-![Image](/assets/Screenshot%202025-04-19%20101900.png)
+![Image](/assets/Screenshot%202025-04-19%20212503.png)
 
 2. Add Prometheus as a data source:
     - Go to Configuration → Data Sources
