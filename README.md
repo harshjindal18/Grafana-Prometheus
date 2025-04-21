@@ -48,7 +48,7 @@ docker-compose up -d
 
 ## Verify Node Exporter and Grafana UP in Prometheus
 
-![Image](/assets/Screenshot%202025-04-19%20101900.png)
+![Image](/assets\Screenshot 2025-04-21 212503.png)
 
 ## Setting Up Grafana Dashboard
 
